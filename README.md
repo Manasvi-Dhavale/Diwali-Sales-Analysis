@@ -1,5 +1,8 @@
 # Diwali Sales Analysis
 
+![image](https://github.com/user-attachments/assets/911b26f1-4d36-471e-86d1-a584b378211c)
+
+
 ## Project Overview
 This project conducts an **exploratory data analysis (EDA)** on a dataset representing Diwali sales to uncover purchasing patterns, trends, and insights. By leveraging Python libraries such as `Pandas`, `NumPy`, `Matplotlib`, and `Seaborn`, the analysis visualizes and interprets sales data effectively.
 
