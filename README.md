@@ -2,10 +2,6 @@
 
 ![image](https://github.com/user-attachments/assets/911b26f1-4d36-471e-86d1-a584b378211c)
 
-![Screenshot 2023-10-31 213427](https://github.com/user-attachments/assets/a77bfc2f-733e-451a-8119-68ae2dcfa9ab)
-
-![Screenshot 2023-11-06 114341](https://github.com/user-attachments/assets/09aaa166-74a3-472a-acd3-2e756c8c1d0f)
-
 
 
 ## Project Overview
